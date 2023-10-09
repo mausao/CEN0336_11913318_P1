@@ -9,7 +9,7 @@ echo "O diretório atual é: $caminho_atual"
 
 #volta até a pasta HOME
 cd ~
-caminho_atualizado="$(pwd )"
+caminho_atualizado="$(pwd)"
 
 #adiciona ao começo do arquivo lista_HOME.txt o caminho atual (que no caso do meu home é: home/maus/)
 echo "Estamos em: $caminho_atualizado" > lista_HOME.txt
