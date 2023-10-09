@@ -1,0 +1,7 @@
+Estamos em: /home/maus
+total 20
+drwxr-xrwx 3 maus maus 4096 Oct  8 23:12 CEN0336_2023
+drwxr-xr-x 2 maus maus 4096 Aug 16 01:11 bioinfo
+-rw-r--r-- 1 maus maus   23 Oct  8 23:14 lista_HOME.txt
+drwxr-xr-x 8 maus maus 4096 Sep 26 19:56 problemsets
+drwxr-xr-x 3 maus maus 4096 Oct  1 21:18 python08
